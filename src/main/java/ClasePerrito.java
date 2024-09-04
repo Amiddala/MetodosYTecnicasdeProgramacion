@@ -8,5 +8,5 @@
  * @author developerweb
  */
 public class ClasePerrito {
-    
+    int numero;
 }
