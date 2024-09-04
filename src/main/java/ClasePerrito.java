@@ -8,6 +8,6 @@
  * @author developerweb
  */
 public class ClasePerrito {
-    public void fosdas(int a){
+    public void METODO(int a){
     };
 }
