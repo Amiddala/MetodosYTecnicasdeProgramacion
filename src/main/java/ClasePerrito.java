@@ -8,5 +8,6 @@
  * @author developerweb
  */
 public class ClasePerrito {
-    int numero;
+    public void f(int a){
+    };
 }
