@@ -7,8 +7,6 @@
  *
  * @author Camila
  */
-public class ClaseRegs {
-    //Clase zzzzz
-    public ClaseRegs(){
-    }
+public class ClaseRegistro {
+    
 }
