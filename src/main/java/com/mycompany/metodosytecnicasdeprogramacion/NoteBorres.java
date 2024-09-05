@@ -11,5 +11,6 @@ package com.mycompany.metodosytecnicasdeprogramacion;
 public class NoteBorres {
     public static void main (String args []){
         System.out.println("se borra y es grave");
+        System.out.println("lerolero");
     }
 }
